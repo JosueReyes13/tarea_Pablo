@@ -1,0 +1,3 @@
+file = open("Prueba.txt","w")
+file.write("josueisraelreyesdiaz")
+file.close()
