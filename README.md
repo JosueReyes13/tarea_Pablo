@@ -1,6 +1,6 @@
-# Programación Estructurada
+# Programación Estructurada 💻
 
-Tareas para la introducción de la materia de Programación Estructurada (Ciclo 2020A) y también introducción a Python.
+Tareas para la introducción de la materia de Programación Estructurada (Ciclo 2020A) y también introducción a Python 🐍.
 
 ## Explicación 
 
